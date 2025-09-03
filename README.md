@@ -1,5 +1,7 @@
 # EDA Assignment
 
+## Shawn Malik
+
 Exploratory data analysis with Pandas and Seaborn
 
 Copyright © Terence Johnson, 2025
